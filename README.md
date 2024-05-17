@@ -13,21 +13,11 @@
 
 </div>
 
-<img align="left" width="128" height="128" src=".github/assets/3rd.png">
-
-<h3>
-Scored 3rd in Bruno Simon's monthly challenge!
-</h3>
-
 <p>
 This was my entry to the 9th edition of the challenges organised by <a href="https://bruno-simon.com/">Bruno Simon</a> for the students of his <a href="https://threejs-journey.com/">Three.js Journey</a> course. The theme was <em><b>Isometric Room</em></b>, and even though I had just purchased the course when the challenge was announced, I decided to participate. Turned out pretty well! 🥉
 </p>
 
 <div align="center">
-
-🌐 [See it Live](https://adam-3d-room.vercel.app/) | 🏆 [Winners](https://threejs-journey.com/challenges/009-isometric-room)
-
-</div>
 
 <hr style="border-bottom: 1px solid #30363d; height: 0px; opacity: 0.7020">
 
